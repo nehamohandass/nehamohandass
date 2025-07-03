@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**nehamohandass/nehamohandass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Undergrad | Python • ML • Cloud | Curious & Consistent**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 2nd Year Computer Science Engineering student  
+- 💻 Learning Data Structures with Python & exploring Machine Learning  
+- ☁️ Interested in Cloud Computing & Mobile Communication  
+- 🛠️ Currently working on: **Resume Parser AI** project  
+- ✨ Dreaming big: Google | Open Source | Innovation
+
+---
+
+### 🧰 Tech Stack
+
+```text
+Languages: Python, C  
+Tools: Git, GitHub, Firebase, Streamlit  
+Domains: Machine Learning, Cloud, Mobile Communication
