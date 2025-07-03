@@ -41,7 +41,7 @@
 
 ### 📫 Connect with Me
 
-- LinkedIn: [Coming soon]
+- LinkedIn: https://www.linkedin.com/in/neha-mohandass-81944a32a
 - Portfolio: [Coming soon]
 
 ---
